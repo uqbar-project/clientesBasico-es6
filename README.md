@@ -1,6 +1,8 @@
 
 # Clientes de un Banco
 
+<img src="img/customer.png" height="100" width="100"/>
+
 ## El dominio
 
 Ejercicio que muestra cómo se implementa varios clientes diferentes
